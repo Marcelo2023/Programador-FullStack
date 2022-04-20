@@ -7,13 +7,19 @@ body{
     color: red;
     
 }
-#texto{
-    color: rgb(240, 217, 15);
+#paragrafos{
+   /* color: rgb(240, 217, 15);*/
     background-image: url(imagem_de_fundo/stock-video-blurry-city-traffic-lights-night.jfif);
     background-repeat: no-repeat;
+    background-size: cover;
     background-position: center;
     background-attachment: local;
 }
+
+.subDiv{
+    background-color: yellow;
+}
+
 .texto_roxo{
     color: purple;
 }
