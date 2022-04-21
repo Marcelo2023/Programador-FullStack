@@ -1,0 +1,9 @@
+.container{
+    width: 50vmin;
+    background-color: blue;
+}
+
+.inside{
+    width: 80%;
+    background-color: red;
+}
