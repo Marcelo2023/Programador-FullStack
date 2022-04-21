@@ -1,0 +1,16 @@
+#base {
+    height: 10px;
+    background-color: red;
+}
+
+#conteudo {
+    background-color: blue;
+    color: white;
+    margin-top: 10px;
+}
+
+#conteudo02 {
+    background-color: black;
+    color: yellow;
+    padding-top: 10px;
+}
