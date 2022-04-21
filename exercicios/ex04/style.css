@@ -1,0 +1,13 @@
+.borda{
+    border-width: 5px;
+    border-style: double;/*ao modificar esse o modelo de borda muda*/
+    border-color: red;
+    border-radius: 5px;
+}
+
+.quadrado{
+    width: 100px;
+    height: 100px;
+    background-color: green;
+}
+
